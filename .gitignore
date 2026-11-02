@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+build_autotyper/
+dist/
+*.spec
+*.log
+build_log.txt
+launcher_log.txt
+auto_typer_error.txt
+settings.json
+.venv/
+venv/
